@@ -10,9 +10,42 @@ switch(a) {
   default:
 }
 
-var foo = {
-  bar: 'baz',
-  qux: 'quux'
-};
+var bar = 1;
 
-console.log(foo);
+var fooo = bar;
+
+fooo + 1;
+
+(1 || 2).baz();
+
+(function foo() {})();
+
+var b = (bar * foo);
+
+
+while (test) {
+  var bar2;
+}
+
+
+function doSomething(condition) {
+  if (condition) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+
+var foo1 = object
+  .property
+  .property;
+
+
+var x = foo['class'];
+
+var go = {
+  a: 1,
+  b: 2,
+  cde: 3
+};
